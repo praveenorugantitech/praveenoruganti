@@ -56,13 +56,11 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 - [React JS](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS.pdf)
 
 [Linktree]: https://linktr.ee/praveenoruganti
-[Website]: https://praveenorugantitech.firebaseapp.com
+[Website]: https://praveenorugantitech.github.io
 [Tech Blog]: https://praveenorugantitech.blogspot.com
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Twitter]: https://twitter.com/praveenoruganti
-[Instagram]: https://instagram.com/praveenorugantitech
-[Email]: mailto:praveenorugantitech@gmail.com
-[YouTube]: https://www.youtube.com/channel/UC9_jKXe1GWniRW8pJV5kiWQ
+[Email]: praveenoruganti@gmail.com
 
 
 ### Stats
