@@ -6,14 +6,13 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ## I'm a Full Stack Developer, Tech Blogger, and An Educator !!
 - 🔭 I’m working on Java, SpringBoot, React JS, PCF and Apigee.
 - 🌱 I'm currently in love with React.
-- ⚡ Loves sharing knowledge through my [Website], [FBTechGroup] , [Tech Blog] and [YouTube].
+- ⚡ Loves sharing knowledge through my [Website] and [Tech Blog].
 - 📫 Reach me at [Linktree] or contact me via [Email].
 
 
 ### Connect with me:
 
-[![TechWebsite](https://img.shields.io/badge/-TechWebsite-blue?style=flat-square&logo=Website&logoColor=white)](https://praveenorugantitech.firebaseapp.com)
-[![FBTechGroup](https://img.shields.io/badge/-FBTechGroup-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/groups/praveenorugantitech)
+[![TechWebsite](https://img.shields.io/badge/-TechWebsite-blue?style=flat-square&logo=Website&logoColor=white)](https://praveenorugantitech.github.io)
 [![Tech Blog](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://praveenorugantitech.blogspot.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/praveenoruganti)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenorugantitech@gmail.com)
@@ -58,7 +57,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Linktree]: https://linktr.ee/praveenoruganti
 [Website]: https://praveenorugantitech.github.io
 [Tech Blog]: https://praveenorugantitech.blogspot.com
-[FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Twitter]: https://twitter.com/praveenoruganti
 [Email]: praveenoruganti@gmail.com
 
