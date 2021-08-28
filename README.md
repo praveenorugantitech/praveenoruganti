@@ -60,6 +60,9 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Tech Blog]: https://praveenorugantitech.blogspot.com
 [Twitter]: https://twitter.com/praveenoruganti
 [Email]: praveenoruganti@gmail.com
+[YouTube]: https://www.facebook.com/groups/praveenorugantitech
+[FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
+
 
 
 ### Stats
