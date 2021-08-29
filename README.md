@@ -13,7 +13,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ### Connect with me:
 
 [![TechWebsite](https://img.shields.io/badge/-TechWebsite-blue?style=flat-square&logo=Website&logoColor=white)](https://praveenoruganti.github.io)
-[![Tech Blog](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://praveenoruganti.blogspot.com)
+[![Tech Blog](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://praveenorugantitech.blogspot.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/praveenoruganti)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenoruganti@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/praveenoruganti)
@@ -35,7 +35,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 [Linktree]: https://linktr.ee/praveenoruganti
 [Website]: https://praveenoruganti.github.io
-[Tech Blog]: https://praveenoruganti.blogspot.com
+[Tech Blog]: https://praveenorugantitech.blogspot.com
 [Twitter]: https://twitter.com/praveenoruganti
 [Email]: mailto:praveenoruganti@gmail.com
 [YouTube]: https://www.youtube.com/c/praveenoruganti1985
