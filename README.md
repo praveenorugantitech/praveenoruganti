@@ -18,7 +18,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenoruganti@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/praveenoruganti)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/praveenoruganti1985/)
-[![FBTechGroup](https://img.shields.io/badge/-FBTechGroup-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/groups/praveenoruganti)
+[![FBTechGroup](https://img.shields.io/badge/-FBTechGroup-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/groups/praveenorugantitech)
 
 ### Languages and Tools:
 
@@ -39,7 +39,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Twitter]: https://twitter.com/praveenoruganti
 [Email]: mailto:praveenoruganti@gmail.com
 [YouTube]: https://www.youtube.com/c/praveenoruganti1985
-[FBTechGroup]: https://www.facebook.com/groups/praveenoruganti
+[FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 
 
 
