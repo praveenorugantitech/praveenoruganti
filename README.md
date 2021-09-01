@@ -33,6 +33,19 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 <br/><br/><br/>
 
+### 📕 My Tech Ebooks
+
+- [Java](https://praveenoruganti.gumroad.com/l/allaboutjava)
+- [Advanced Java](https://praveenoruganti.gumroad.com/l/advancedjava)
+- [Webservices](https://praveenoruganti.gumroad.com/l/opwebservice)
+- [Microservices, PCF and Spring Cloud](https://praveenoruganti.gumroad.com/l/microservice)
+- [SQL](https://praveenoruganti.gumroad.com/l/opsql)
+- [HTML5](https://praveenoruganti.gumroad.com/l/htmlcourse)
+- [CSS3](https://praveenoruganti.gumroad.com/l/csscourse)
+- [Java Interview Questions](https://praveenoruganti.gumroad.com/l/javaiq)
+- [JavaScript Interview Questions](https://praveenoruganti.gumroad.com/l/javascriptiq)
+- [React JS Interview Questions](https://praveenoruganti.gumroad.com/l/reactjsiq)
+
 [Linktree]: https://linktr.ee/praveenoruganti
 [Website]: https://praveenoruganti.github.io
 [Tech Blog]: https://praveenorugantitech.blogspot.com
