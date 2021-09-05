@@ -33,6 +33,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ### 📕 My Tech Ebooks
 
 - [Java](https://praveenoruganti.gumroad.com/l/allaboutjava)
+- [Design Patterns](https://praveenoruganti.gumroad.com/l/designpatterns)
 - [Advanced Java](https://praveenoruganti.gumroad.com/l/advancedjava)
 - [Webservices](https://praveenoruganti.gumroad.com/l/opwebservice)
 - [Microservices, PCF and Spring Cloud](https://praveenoruganti.gumroad.com/l/microservice)
