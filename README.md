@@ -1,5 +1,5 @@
 
-### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][linktree] 👋
+### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][praveenorugantitech] 👋
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenoruganti/praveenoruganti/master/images/Developer.gif">
 
@@ -55,6 +55,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [YouTube]: https://www.youtube.com/c/praveenoruganti1985
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Ebooks]: https://praveenoruganti.gumroad.com/ 
+[praveenorugantitech]: https://github.com/praveenorugantitech
 
 
 
