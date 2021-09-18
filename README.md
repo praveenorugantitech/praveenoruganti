@@ -65,7 +65,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [praveenorugantitech]: https://github.com/praveenorugantitech
 
 
-### Sponsor my work ❤️
+### Sponsor ❤️
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/praveenoruganti" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" ></a>
