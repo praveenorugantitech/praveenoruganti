@@ -6,7 +6,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ## I'm a Solution Architect, Tech Blogger, and An Educator !!
 - 🔭 I’m working on Java, SpringBoot, React JS, PCF and Apigee.
 - 🌱 I'm currently in love with React.
-- ⚡ Loves sharing knowledge through my [Website], [Ebooks] and [Tech Blog].
+- ⚡ Loves sharing knowledge through my [Website], [Tech Group], [Ebooks] and [Tech Blog].
 - 📫 Reach me at [Linktree] or contact me via [Email].
 
 
@@ -63,6 +63,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Ebooks]: https://praveenorugantitech.github.io/praveenoruganti-ebooks/
 [praveenorugantitech]: https://github.com/praveenorugantitech
+[Tech Group](https://www.facebook.com/groups/praveenorugantitech)
 
 
 ### Sponsor ❤️
