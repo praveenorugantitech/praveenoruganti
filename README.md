@@ -63,7 +63,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Ebooks]: https://praveenorugantitech.github.io/praveenoruganti-ebooks/
 [praveenorugantitech]: https://github.com/praveenorugantitech
-[Tech Group](https://www.facebook.com/groups/praveenorugantitech)
+[Tech Group]: https://www.facebook.com/groups/praveenorugantitech
 
 
 ### Sponsor ❤️
